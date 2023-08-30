@@ -27,7 +27,7 @@ hi, i'm Ahmet, a passionate front-end web developer and a hobby game developer f
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmettoy&show_icons=true&theme=gotham" alt="ahmettoy" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ahmettoy&show_icons=true&theme=gotham" alt="ahmettoy" />
 
 
 
